@@ -1,0 +1,23 @@
+{
+  "name": "ai114",
+  "version": "1.0.0",
+  "description": "web pages for ai114.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/coojee2012/ai114.git"
+  },
+  "keywords": [
+    "AI",
+    "114"
+  ],
+  "author": "Lynn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coojee2012/ai114/issues"
+  },
+  "homepage": "https://github.com/coojee2012/ai114#readme"
+}
